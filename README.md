@@ -2,14 +2,6 @@
 
 AutoSprint is a tool designed to automate sprint in different kind of games, by simulating a keypress.
 
-    Automated Sprint Planning: AutoSprint generates a sprint plan based on your team's capacity and the complexity of your tasks, ensuring efficient utilization of resources.
-
-    Task Assignment and Prioritization: Assign tasks to team members and prioritize them based on urgency and importance, ensuring a balanced workload.
-
-    Real-time Sprint Tracking: Visualize your sprint progress with interactive charts and dashboards, tracking completion rates and identifying potential bottlenecks.
-
-    Integrations with Popular Platforms: Seamlessly integrate AutoSprint with popular project management tools like Jira, Asana, and Trello, maintaining a centralized view of your sprints.
-
 ##Installation
 
 To install AutoSprint, follow these steps:
@@ -20,16 +12,7 @@ To install AutoSprint, follow these steps:
 
     Configure Settings: Set up the project configuration in the config.json file.
 
-##Customization
+###Customization
 
 AutoSprint is customizable, allowing you to to set its delay to random (r) or a number. 
 
-    Sprint Planning Parameters: Adjust the parameters used for automated sprint planning, such as task complexity weights and minimum sprint duration.
-
-    Task Assignment Rules: Define rules for assigning tasks to team members, considering factors like skill sets, workload balance, and availability.
-
-    Prioritization Criteria: Set criteria for prioritizing tasks, such as urgency, importance, and dependencies.
-
-    Reporting and Visualizations: Modify the reports and visualizations to present your sprint data in a way that aligns with your team's preferences.
-
-Contribution Guidelines
