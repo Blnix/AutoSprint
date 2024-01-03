@@ -13,7 +13,7 @@ Clone the repository:
     
 Install depedencice:
     
-    pip install -r requirements.txt.
+    pip install -r requirements.txt
 
 Run it:
 
