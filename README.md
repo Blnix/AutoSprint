@@ -1,10 +1,6 @@
-AutoSprint
+#AutoSprint
 
-Automated Sprint Planning and Management
-Overview
-
-AutoSprint is a tool designed to automate sprint planning and management, streamlining the process and saving you time. It provides a user-friendly interface for defining sprint goals, assigning tasks, and tracking progress. AutoSprint also integrates with popular project management tools, making it easy to manage your sprints seamlessly.
-Features
+AutoSprint is a tool designed to automate sprint in different kind of games, by simulating a keypress.
 
     Automated Sprint Planning: AutoSprint generates a sprint plan based on your team's capacity and the complexity of your tasks, ensuring efficient utilization of resources.
 
@@ -14,7 +10,7 @@ Features
 
     Integrations with Popular Platforms: Seamlessly integrate AutoSprint with popular project management tools like Jira, Asana, and Trello, maintaining a centralized view of your sprints.
 
-Installation
+##Installation
 
 To install AutoSprint, follow these steps:
 
@@ -22,11 +18,11 @@ To install AutoSprint, follow these steps:
 
     Install Dependencies: Install the required dependencies using the command pip install -r requirements.txt.
 
-    Configure Settings: Set up the project configuration in the config.ini file.
+    Configure Settings: Set up the project configuration in the config.json file.
 
-Customization
+##Customization
 
-AutoSprint is highly customizable, allowing you to tailor it to your team's specific needs and processes. You can customize the following aspects:
+AutoSprint is customizable, allowing you to to set its delay to random (r) or a number. 
 
     Sprint Planning Parameters: Adjust the parameters used for automated sprint planning, such as task complexity weights and minimum sprint duration.
 
