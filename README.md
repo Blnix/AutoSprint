@@ -1,18 +1,28 @@
-#AutoSprint
-
+# AutoSprint
 AutoSprint is a tool designed to automate sprint in different kind of games, by simulating a keypress.
 
-##Installation
 
-To install AutoSprint, follow these steps:
+By pressing "k" its paused and by pressing "l" closed.
 
-    Clone the Repository: Clone the AutoSprint repository from GitHub using the command git clone <repository_url>.
+## Installation
 
-    Install Dependencies: Install the required dependencies using the command pip install -r requirements.txt.
 
-    Configure Settings: Set up the project configuration in the config.json file.
+Clone the repository:
+    
+    git clone https://github.com/Ai-Austin/BardVoice
+    
+Install depedencice:
+    
+    pip install -r requirements.txt.
 
-###Customization
+Run it:
 
-AutoSprint is customizable, allowing you to to set its delay to random (r) or a number. 
+    py AutoSprint.py
+
+## Customization
+
+AutoSprint is customizable, allowing you to to set its delay to a random (r) number between 0.1 and 0.2.
+
+
+You can also put any number if you dont want to randomise it.
 
