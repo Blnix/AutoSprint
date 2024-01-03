@@ -9,7 +9,7 @@ By pressing "k" its paused and by pressing "l" closed.
 
 Clone the repository:
     
-    git clone https://github.com/Ai-Austin/BardVoice
+    git clone https://github.com/Blnix/AutoSprint.git
     
 Install depedencice:
     
